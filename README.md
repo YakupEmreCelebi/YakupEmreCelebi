@@ -4,7 +4,7 @@
 - 💻 Full-stack developer passionate about building end-to-end solutions for both web and mobile platforms.
 - 🎮 Currently experimenting with game development in Unreal Engine 5.
 - 📫 How to reach me: emre.celebi@ug.bilkent.edu.tr
-- 📄 Here is my CV: [CV](Yakup_Emre_Celebi_CV_2026.pdf)
+- 📄 Here is my CV: [CV](https://yakupemrecelebi.github.io/YakupEmreCelebi/Yakup_Emre_Celebi_CV_2026.pdf)
 
 ### 🛠 Languages and Tools
 <p align="left"> 
